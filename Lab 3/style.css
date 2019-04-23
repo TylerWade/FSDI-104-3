@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+}
+h2{
+    color:gold;
+    text-align: center;
+}
+h3{
+    color: red;
+}
+#master{
+    float: left;
+}
+#arbiter{
+    float: right;
+}
+
